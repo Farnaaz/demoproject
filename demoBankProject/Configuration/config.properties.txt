@@ -1,0 +1,7 @@
+ url = "http://demo.guru99.com/V1/index.php";
+ username = "mngr125479";
+ password = "hehaqat";
+
+Chromepath = C:\\Users\\user\\eclipse-workspace\\GtplBankProject\\drivers\\chromedriver.exe
+IEpath = C:\\Users\\user\\eclipse-workspace\\GtplBankProject\\drivers\\IEDriverServer.exe
+Firefoxpath = C:\\Users\\user\\eclipse-workspace\\GtplBankProject\\drivers\\geckodriver.exe
